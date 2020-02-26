@@ -1,0 +1,38 @@
+dependencies: \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/node_modules/react-native/Libraries/Image/RCTImageViewManager.m \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Target\ Support\ Files/React-RCTImage/React-RCTImage-prefix.pch \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/node_modules/react-native/Libraries/Image/RCTImageViewManager.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTImageSource.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/node_modules/react-native/Libraries/Image/RCTImageLoader.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Private/React-RCTImage/React/RCTResizeMode.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTURLRequestHandler.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTURLRequestDelegate.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/node_modules/react-native/Libraries/Image/RCTImageShadowView.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTShadowView.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTLayout.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/node_modules/react-native/Libraries/Image/RCTImageView.h \
+  /Users/weichangbin/Desktop/rn/customer-service-rn/ios/Pods/Headers/Public/React-Core/React/RCTView.h

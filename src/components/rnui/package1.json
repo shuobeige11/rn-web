@@ -1,0 +1,20 @@
+{
+  "name": "ymm-rn-component",
+  "version": "1.0.0",
+  "description": "ymm-rn-component",
+  "main": "index.ts",
+  "directories": {
+    "component": "component"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "mobile front",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "react-native-navbar": "^2.1.0",
+    "react-native-iphone-x-helper": "^1.2.0",
+    "react-native-pure-navigation-bar": "^1.4.9"
+  }
+}
